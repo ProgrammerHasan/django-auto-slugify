@@ -1,4 +1,5 @@
 LICENSE
+README.md
 setup.py
 auto_slugify/ fields.py
 auto_slugify/__init__.py

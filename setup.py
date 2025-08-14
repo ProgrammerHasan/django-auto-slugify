@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="django-auto-slugify",
-    version="0.1.0",
+    version="0.1.1",
     author="ProgrammerHasan",
     author_email="programmerhasan@email.com",
     description="Auto-generate unique slugs for Django models",

@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: django-auto-slugify
-Version: 0.1.0
+Version: 0.1.1
 Summary: Auto-generate unique slugs for Django models
 Home-page: https://github.com/programmerhasan/django-auto-slugify
 Author: ProgrammerHasan
